@@ -31,3 +31,7 @@ C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\System.Threading.Tas
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\System.Web.Http.xml
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CopyComplete
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.dll
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.xml
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Data\bin\Debug\EntityFramework.SqlServer.xml

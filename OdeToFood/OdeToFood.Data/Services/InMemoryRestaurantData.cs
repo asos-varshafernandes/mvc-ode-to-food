@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Newtonsoft.Json.Bson;
 using OdeToFood.Data.Models;
 
 namespace OdeToFood.Data.Services
@@ -23,6 +24,25 @@ namespace OdeToFood.Data.Services
         {
             restaurants.Add(restaurant);
             restaurant.Id = restaurants.Max(x => x.Id) + 1;
+        }
+
+        public void Update(Restaurant restaurant)
+        {
+            var existing = Get(restaurant.Id);
+            if (existing != null)
+            {
+                existing.Name = restaurant.Name;
+                existing.Cuisine = restaurant.Cuisine;
+            }
+        }
+
+        public void Delete(int id)
+        {
+            var restaurant = Get(id);
+            if (restaurant != null)
+            {
+                restaurants.Remove(restaurant);
+            }
         }
 
         public Restaurant Get(int id)

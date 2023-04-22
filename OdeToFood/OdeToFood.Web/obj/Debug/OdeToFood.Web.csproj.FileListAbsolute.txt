@@ -106,3 +106,7 @@ C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\System.Web.Http.WebHost.xml
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.dll
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll.config
 C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\Autofac.Integration.WebApi.xml
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\EntityFramework.dll
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.dll
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\EntityFramework.xml
+C:\Repos\mvc-ode-to-food\OdeToFood\OdeToFood.Web\bin\EntityFramework.SqlServer.xml
